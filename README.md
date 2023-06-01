@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danya7777
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning language C.
+- 🌱 I’m currently learning language Python.
 - 📫 How to reach me: Type to email mishindaniil365247@gmail.com or twitter @danya77772110
 
 <!---
